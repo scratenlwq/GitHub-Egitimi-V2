@@ -1,1 +1,1 @@
-Bu bir testtir.
+This is a test. 
